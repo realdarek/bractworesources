@@ -1,3 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Debile² Launcher News</title>
+    <link>https://github.com/realdarek/bractworesources</link>
+    <description>Aktualności dotyczące serwera i modpacka Debile²</description>
+    <language>pl-PL</language>
+
     <item>
       <title>Now Accepting Submissions for Autumn Rookery 2023!</title>
       <pubDate>Sat, 16 Sep 2023 00:40:07 +0000</pubDate>
@@ -82,3 +90,6 @@ The goal is to release the issue by the end of June, so try to get your submissi
 Check out past Rookerys <a href="https://westeroscraft.com/rookery" target="_blank" class="link link--external" rel="noopener">here</a>!</div>]]></content:encoded>
       <slash:comments>0</slash:comments>
     </item>
+
+  </channel>
+</rss>
