@@ -1,0 +1,892 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "1252077064228442173",
+        "smallImageText": "Debile²",
+        "smallImageKey": "ddkcircle"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://raw.githubusercontent.com/realdarek/bractworesources/refs/heads/master/update.rss",
+    "servers": [
+        {
+            "id": "Debiledokw-1.20.1",
+            "name": "Debile² server",
+            "description": "Nasz serwer na modach",
+            "icon": "https://cdn.discordapp.com/attachments/1120050853513011260/1529432642523496518/ddkCircle.png?ex=6a61eaa5&is=6a609925&hm=fa554e1607bb999ca0aae25548ad72e6cde9aeae9474b1e96e08997f7c826d92&",
+            "version": "1.0.0",
+            "address": "debiledokwadratu.icsv.pl",
+            "minecraftVersion": "1.20.1",
+            "discord": {
+                "shortId": "Production",
+                "largeImageText": "Debile²",
+                "largeImageKey": "ddkcircle"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                {
+                    "id": "mods:aquaculture-1.20.1-2.5.7:1.0.0",
+                    "name": "Aquaculture-1.20.1-2.5.7",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 601839,
+                        "MD5": "f39d02c30d59ec516e3221f9f7643909",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Aquaculture-1.20.1-2.5.7.jar"
+                    }
+                },
+                {
+                    "id": "mods:biomesoplenty-1.20.1-18.0.0.592:1.0.0",
+                    "name": "BiomesOPlenty-1.20.1-18.0.0.592",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 21800460,
+                        "MD5": "dd2ec3933263ff5ff2eb0bbc21d8a0f7",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/BiomesOPlenty-1.20.1-18.0.0.592.jar"
+                    }
+                },
+                {
+                    "id": "mods:boat-item-view-forge-1.20.1-0.0.5:1.0.0",
+                    "name": "Boat-Item-View-Forge-1.20.1-0.0.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 27007,
+                        "MD5": "f452a80d47041aa55fecff1da3cd9564",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Boat-Item-View-Forge-1.20.1-0.0.5.jar"
+                    }
+                },
+                {
+                    "id": "mods:cosmeticarmours---1.5.3.1---1.20.1---forge:1.0.0",
+                    "name": "CosmeticArmours - 1.5.3.1 - 1.20.1 - Forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 17337641,
+                        "MD5": "0cd9e615032f2e84e749dcf74670b578",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/CosmeticArmours.-.1.5.3.1.-.1.20.1.-.Forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:craterlib-forge-1.20-3.1.2-hotfix.1:1.0.0",
+                    "name": "CraterLib-Forge-1.20-3.1.2+hotfix.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1482045,
+                        "MD5": "2dfbf0d8f724a07f260da2cce3fec0c4",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/CraterLib-Forge-1.20-3.1.2+hotfix.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:creativecore_forge_v2.12.39_mc1.20.1:1.0.0",
+                    "name": "CreativeCore_FORGE_v2.12.39_mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1144128,
+                        "MD5": "941e290ecd7ca54c2ed6a543b68d754b",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/CreativeCore_FORGE_v2.12.39_mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:croptopia-1.20.1-forge-4.0.1:1.0.0",
+                    "name": "Croptopia-1.20.1-FORGE-4.0.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2155802,
+                        "MD5": "4f423e0d4114bd04c8651320a61b3a04",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Croptopia-1.20.1-FORGE-4.0.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:dungeonsarise-1.20.x-2.1.58-release:1.0.0",
+                    "name": "DungeonsArise-1.20.x-2.1.58-release",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8762342,
+                        "MD5": "6ac48d0cf2ce763824f96f6d26963219",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/DungeonsArise-1.20.x-2.1.58-release.jar"
+                    }
+                },
+                {
+                    "id": "mods:ew-forge-1.20.1-1.0.0:1.0.0",
+                    "name": "EW-Forge-1.20.1-1.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 428131,
+                        "MD5": "f6a04e9f8e25a215ba22987ef5c2f124",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/EW-Forge-1.20.1-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:epherolib-1.20.1-forge-1.2.0:1.0.0",
+                    "name": "EpheroLib-1.20.1-FORGE-1.2.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 756864,
+                        "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/EpheroLib-1.20.1-FORGE-1.2.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:farmersdelight-1.20.1-1.3.2:1.0.0",
+                    "name": "FarmersDelight-1.20.1-1.3.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3313327,
+                        "MD5": "39459d8e62ef83e36c2b54952dbe2c2f",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/FarmersDelight-1.20.1-1.3.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:farmersstructures-1.0.4-1.20:1.0.0",
+                    "name": "FarmersStructures-1.0.4-1.20",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 425995,
+                        "MD5": "b1c7ca164ccb5d38089f54fe3714a5b3",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/FarmersStructures-1.0.4-1.20.jar"
+                    }
+                },
+                {
+                    "id": "mods:framedblocks-9.4.3:1.0.0",
+                    "name": "FramedBlocks-9.4.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4251314,
+                        "MD5": "9afefc077f00c192b0f953c2987c5a66",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/FramedBlocks-9.4.3.jar"
+                    }
+                },
+                {
+                    "id": "mods:glitchcore-forge-1.20.1-0.0.1.1:1.0.0",
+                    "name": "GlitchCore-forge-1.20.1-0.0.1.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 87550,
+                        "MD5": "6d24b09db12acdab40437a1929259352",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/GlitchCore-forge-1.20.1-0.0.1.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:immediatelyfast-forge-1.5.5-1.20.4:1.0.0",
+                    "name": "ImmediatelyFast-Forge-1.5.5+1.20.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 532063,
+                        "MD5": "4d776686d7da62146099484b8c9e14af",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/ImmediatelyFast-Forge-1.5.5+1.20.4.jar"
+                    }
+                },
+                {
+                    "id": "mods:inventoryprofilesnext-forge-1.20-1.10.20:1.0.0",
+                    "name": "InventoryProfilesNext-forge-1.20-1.10.20",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1457354,
+                        "MD5": "7e883e59d6e544574ef58c52562881a9",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/InventoryProfilesNext-forge-1.20-1.10.20.jar"
+                    }
+                },
+                {
+                    "id": "mods:jade-1.20.1-forge-11.13.3:1.0.0",
+                    "name": "Jade-1.20.1-Forge-11.13.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 553487,
+                        "MD5": "a53aade6b5915ebe8357abb68cf1f778",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Jade-1.20.1-Forge-11.13.3.jar"
+                    }
+                },
+                {
+                    "id": "mods:naturescompass-1.20.1-1.12.0-forge:1.0.0",
+                    "name": "NaturesCompass-1.20.1-1.12.0-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 227495,
+                        "MD5": "cd6c3480c519bc6d5f7532bc5c21820b",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/NaturesCompass-1.20.1-1.12.0-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:obsidianui-forge-0.2.3-mc1.20.1:1.0.0",
+                    "name": "ObsidianUI-forge-0.2.3+mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 212286,
+                        "MD5": "323ee5036a5113c1529520430e7b6a04",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/ObsidianUI-forge-0.2.3+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:paraglider-forge-20.1.3:1.0.0",
+                    "name": "Paraglider-forge-20.1.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 589055,
+                        "MD5": "35eba1f897eb09eaff91579d65696565",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Paraglider-forge-20.1.3.jar"
+                    }
+                },
+                {
+                    "id": "mods:patchouli-1.20.1-85-forge:1.0.0",
+                    "name": "Patchouli-1.20.1-85-FORGE",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 642732,
+                        "MD5": "78bd223d069fa9491e940d99a8f426b3",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Patchouli-1.20.1-85-FORGE.jar"
+                    }
+                },
+                {
+                    "id": "mods:ryoamiclights-forge-0.2.3-mc1.20.1:1.0.0",
+                    "name": "RyoamicLights-forge-0.2.3+mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 160055,
+                        "MD5": "f90749d92767a42c3cf8df3d95cc1067",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/RyoamicLights-forge-0.2.3+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:sob-forge-1.20.1-1.0.0:1.0.0",
+                    "name": "SOB-Forge-1.20.1-1.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 540126,
+                        "MD5": "58a0565ac68df1dcec825e9c4dc5d0e1",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/SOB-Forge-1.20.1-1.0.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:simplerpc-4.1.3:1.0.0",
+                    "name": "SimpleRPC-4.1.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 716182,
+                        "MD5": "4a018157baa4e944127850e9fb2a10e7",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/SimpleRPC-4.1.3.jar"
+                    }
+                },
+                {
+                    "id": "mods:stellarity-v2-0e:1.0.0",
+                    "name": "Stellarity-v2-0e",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 12562436,
+                        "MD5": "13c3ed7b69ef952364fbd14c50bf88a2",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Stellarity-v2-0e.jar"
+                    }
+                },
+                {
+                    "id": "mods:terrablender-forge-1.20.1-3.0.1.10:1.0.0",
+                    "name": "TerraBlender-forge-1.20.1-3.0.1.10",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 107532,
+                        "MD5": "9d8e305b95ae5a8f7b446d6346324267",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/TerraBlender-forge-1.20.1-3.0.1.10.jar"
+                    }
+                },
+                {
+                    "id": "mods:terralith_1.20.x_v2.5.4:1.0.0",
+                    "name": "Terralith_1.20.x_v2.5.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3156901,
+                        "MD5": "b143cfd648086c68d7f47a86b8994ee3",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/Terralith_1.20.x_v2.5.4.jar"
+                    }
+                },
+                {
+                    "id": "mods:forge-ctov-3.4.14:1.0.0",
+                    "name": "[forge]ctov-3.4.14",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6772753,
+                        "MD5": "382d0881db0828470c219dd5d0789132",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/forge.ctov-3.4.14.jar"
+                    }
+                },
+                {
+                    "id": "mods:accessories-neoforge-1.0.0-beta.48-1.20.1:1.0.0",
+                    "name": "accessories-neoforge-1.0.0-beta.48+1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1080048,
+                        "MD5": "bf30aed6a212f5dbff089ccb981bce20",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/accessories-neoforge-1.0.0-beta.48+1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:alexsdelight-1.5:1.0.0",
+                    "name": "alexsdelight-1.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 55398,
+                        "MD5": "b969e136e1f9a70c42dd102ed8359b40",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/alexsdelight-1.5.jar"
+                    }
+                },
+                {
+                    "id": "mods:alexsmobs-1.22.9:1.0.0",
+                    "name": "alexsmobs-1.22.9",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 26350793,
+                        "MD5": "504050d1f2e2c3019b6f53377ca354c6",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/alexsmobs-1.22.9.jar"
+                    }
+                },
+                {
+                    "id": "mods:amendments-1.20-2.2.5:1.0.0",
+                    "name": "amendments-1.20-2.2.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1301022,
+                        "MD5": "3e821a83a3a12bc9ca0fecb73a980dba",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/amendments-1.20-2.2.5.jar"
+                    }
+                },
+                {
+                    "id": "mods:another_furniture-forge-1.20.1-3.0.4:1.0.0",
+                    "name": "another_furniture-forge-1.20.1-3.0.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2463633,
+                        "MD5": "cc1fc7aaac4322d79446e3b5243cfe70",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/another_furniture-forge-1.20.1-3.0.4.jar"
+                    }
+                },
+                {
+                    "id": "mods:appleskin-forge-mc1.20.1-2.5.1:1.0.0",
+                    "name": "appleskin-forge-mc1.20.1-2.5.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 47428,
+                        "MD5": "dae63cea9c951dda542a4005ceef3953",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/appleskin-forge-mc1.20.1-2.5.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:balm-forge-1.20.1-7.3.41-all:1.0.0",
+                    "name": "balm-forge-1.20.1-7.3.41-all",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 559741,
+                        "MD5": "3e85619a9dfa40b2b1e8d95b54dadb00",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/balm-forge-1.20.1-7.3.41-all.jar"
+                    }
+                },
+                {
+                    "id": "mods:bf_blockpack-forge-1.20.1-1.0.11:1.0.0",
+                    "name": "bf_blockpack-forge-1.20.1-1.0.11",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 9185073,
+                        "MD5": "a09a326be368ff0ac98bed85e602efdb",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/bf_blockpack-forge-1.20.1-1.0.11.jar"
+                    }
+                },
+                {
+                    "id": "mods:butchery-5.1-forge-1.20.1:1.0.0",
+                    "name": "butchery-5.1-forge-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 15933638,
+                        "MD5": "a22fd1319f1b53ce8b64693cc5c5545f",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/butchery-5.1-forge-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:catalogue-forge-1.20.1-1.8.0:1.0.0",
+                    "name": "catalogue-forge-1.20.1-1.8.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 240394,
+                        "MD5": "524efc6bbcd6da51e86cbf3183587330",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/catalogue-forge-1.20.1-1.8.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:citadel-2.6.3-1.20.1:1.0.0",
+                    "name": "citadel-2.6.3-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3185275,
+                        "MD5": "da80c09b998d829b6d580e5be76dcc7b",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/citadel-2.6.3-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:cloth-config-11.1.136-forge:1.0.0",
+                    "name": "cloth-config-11.1.136-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1181413,
+                        "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/cloth-config-11.1.136-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:corpse-forge-1.20.1-1.0.23:1.0.0",
+                    "name": "corpse-forge-1.20.1-1.0.23",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 245644,
+                        "MD5": "a486f676f5e47e5846e31cb66cb5c16d",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/corpse-forge-1.20.1-1.0.23.jar"
+                    }
+                },
+                {
+                    "id": "mods:create-1.20.1-6.0.8:1.0.0",
+                    "name": "create-1.20.1-6.0.8",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 19170905,
+                        "MD5": "6ebc5c57638c1678359eac65b924c310",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/create-1.20.1-6.0.8.jar"
+                    }
+                },
+                {
+                    "id": "mods:elevatorid-1.20.1-1.9.1-forge:1.0.0",
+                    "name": "elevatorid-1.20.1-1.9.1-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 187868,
+                        "MD5": "b4784b8ae695f179d0aefaaa82018968",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/elevatorid-1.20.1-1.9.1-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:embeddium-0.3.31-mc1.20.1:1.0.0",
+                    "name": "embeddium-0.3.31+mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1320675,
+                        "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/embeddium-0.3.31+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:entity_model_features-3.2.4-1.20.1-forge:1.0.0",
+                    "name": "entity_model_features-3.2.4-1.20.1-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 752458,
+                        "MD5": "23e5601dd7e6e2ffab26179e4f5cabeb",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/entity_model_features-3.2.4-1.20.1-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:entity_texture_features_1.20.1-forge-7.1:1.0.0",
+                    "name": "entity_texture_features_1.20.1-forge-7.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 944851,
+                        "MD5": "bb8a57f4e9965654c344854fb45dd540",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/entity_texture_features_1.20.1-forge-7.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:entityculling-forge-1.10.5-mc1.20.1:1.0.0",
+                    "name": "entityculling-forge-1.10.5-mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1590221,
+                        "MD5": "f54a5baa0a9613d13ad0e781d245338b",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/entityculling-forge-1.10.5-mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:farmersrespite-1.20.1-2.1.2:1.0.0",
+                    "name": "farmersrespite-1.20.1-2.1.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 537307,
+                        "MD5": "13d46fc2bfb1e4f7176381a98b29eaf5",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/farmersrespite-1.20.1-2.1.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:ferritecore-6.0.1-forge:1.0.0",
+                    "name": "ferritecore-6.0.1-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 123034,
+                        "MD5": "f52f538207a4829d7060550092ce2383",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/ferritecore-6.0.1-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:framework-forge-1.20.1-0.8.0:1.0.0",
+                    "name": "framework-forge-1.20.1-0.8.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 383868,
+                        "MD5": "6d9a54cd004b15028673b309243e07a2",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/framework-forge-1.20.1-0.8.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:furnitury-3.0707-forge-1.20.1:1.0.0",
+                    "name": "furnitury-3.0707-forge-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1601927,
+                        "MD5": "9d1faf5bd3b1dbaf363130129a8bde7f",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/furnitury-3.0707-forge-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:geckolib-forge-1.20.1-4.8.4:1.0.0",
+                    "name": "geckolib-forge-1.20.1-4.8.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1038209,
+                        "MD5": "83c73bcbf5778235569025ed968dc3ec",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/geckolib-forge-1.20.1-4.8.4.jar"
+                    }
+                },
+                {
+                    "id": "mods:holdmyitems-1.20.1v2.1:1.0.0",
+                    "name": "holdmyitems-1.20.1v2.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 330100,
+                        "MD5": "49e4a479951c50540f4dcef56f26126b",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/holdmyitems-1.20.1v2.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:jei-1.20.1-forge-15.20.0.112:1.0.0",
+                    "name": "jei-1.20.1-forge-15.20.0.112",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1385600,
+                        "MD5": "c899d5b549ace1e9fa46700c778c3809",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/jei-1.20.1-forge-15.20.0.112.jar"
+                    }
+                },
+                {
+                    "id": "mods:justzoom_forge_2.1.1_mc_1.20.1:1.0.0",
+                    "name": "justzoom_forge_2.1.1_MC_1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 204574,
+                        "MD5": "758fe904b5a22ce7b2df824c1a064858",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/justzoom_forge_2.1.1_MC_1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:konkrete_forge_1.8.0_mc_1.20-1.20.1:1.0.0",
+                    "name": "konkrete_forge_1.8.0_MC_1.20-1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 625185,
+                        "MD5": "d69107c593e361e1b7b96733250bd098",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:kotlinforforge-4.12.0-all:1.0.0",
+                    "name": "kotlinforforge-4.12.0-all",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7442998,
+                        "MD5": "d6a40dede74edbe646b34a1bafd53b4d",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/kotlinforforge-4.12.0-all.jar"
+                    }
+                },
+                {
+                    "id": "mods:largemeals-1.20.1-1.3.0:1.0.0",
+                    "name": "largemeals-1.20.1-1.3.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 77128,
+                        "MD5": "afa736860a8e18f18a902bdf2820fe9d",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/largemeals-1.20.1-1.3.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:libipn-forge-1.20-4.0.2:1.0.0",
+                    "name": "libIPN-forge-1.20-4.0.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 693301,
+                        "MD5": "ef3a86f4867dba031dd6adef7e45d396",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/libIPN-forge-1.20-4.0.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:lithostitched-forge-1.20.1-1.4.11:1.0.0",
+                    "name": "lithostitched-forge-1.20.1-1.4.11",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 476347,
+                        "MD5": "3c596bbc1b5f769f22be751e9c21a6c8",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/lithostitched-forge-1.20.1-1.4.11.jar"
+                    }
+                },
+                {
+                    "id": "mods:lootr-forge-1.20-0.7.35.94:1.0.0",
+                    "name": "lootr-forge-1.20-0.7.35.94",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 463485,
+                        "MD5": "56dd6966de4ba641cf00ef5b9ce8d2d7",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/lootr-forge-1.20-0.7.35.94.jar"
+                    }
+                },
+                {
+                    "id": "mods:miners_delight-1.20.1-1.4.5-backport:1.0.0",
+                    "name": "miners_delight-1.20.1-1.4.5-backport",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 548776,
+                        "MD5": "cfc550c58340e2b8e68db48fdf951bde",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/miners_delight-1.20.1-1.4.5-backport.jar"
+                    }
+                },
+                {
+                    "id": "mods:modernfix-forge-5.27.66-mc1.20.1:1.0.0",
+                    "name": "modernfix-forge-5.27.66+mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1002234,
+                        "MD5": "61c184687d2cd6c770a033f310ea55fc",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/modernfix-forge-5.27.66+mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:moonlight-1.20-2.16.34-forge:1.0.0",
+                    "name": "moonlight-1.20-2.16.34-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1419416,
+                        "MD5": "f80a05d17e669e9a5f40cf68821601ed",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/moonlight-1.20-2.16.34-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:nirvana-forge-1.2.5:1.0.0",
+                    "name": "nirvana-forge-1.2.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2771950,
+                        "MD5": "cd5da358eaf9c8f451c8722ba5c1da1a",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/nirvana-forge-1.2.5.jar"
+                    }
+                },
+                {
+                    "id": "mods:oculus-mc1.20.1-1.8.0:1.0.0",
+                    "name": "oculus-mc1.20.1-1.8.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2851119,
+                        "MD5": "1dd891634ac21591b5a692471f112572",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/oculus-mc1.20.1-1.8.0.jar"
+                    }
+                },
+                {
+                    "id": "mods:pamhc2crops-1.20-1.0.3:1.0.0",
+                    "name": "pamhc2crops-1.20-1.0.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1050402,
+                        "MD5": "3b4a219f1bc87f89256ca84ff6059f7a",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/pamhc2crops-1.20-1.0.3.jar"
+                    }
+                },
+                {
+                    "id": "mods:pamhc2foodcore-1.20.4-1.0.5:1.0.0",
+                    "name": "pamhc2foodcore-1.20.4-1.0.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 911489,
+                        "MD5": "744646a811ced1c079c19a7df31388fe",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/pamhc2foodcore-1.20.4-1.0.5.jar"
+                    }
+                },
+                {
+                    "id": "mods:pamhc2trees-1.20-1.0.2:1.0.0",
+                    "name": "pamhc2trees-1.20-1.0.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 777303,
+                        "MD5": "39a319227f0fb70bec5f9b6d7bd9b34f",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/pamhc2trees-1.20-1.0.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:refurbished_furniture-forge-1.20.1-1.0.20:1.0.0",
+                    "name": "refurbished_furniture-forge-1.20.1-1.0.20",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6689588,
+                        "MD5": "53bf35be2dc746e3fd7805a4e63a46a6",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/refurbished_furniture-forge-1.20.1-1.0.20.jar"
+                    }
+                },
+                {
+                    "id": "mods:simplehats-forge-1.20.1-0.4.0a:1.0.0",
+                    "name": "simplehats-forge-1.20.1-0.4.0a",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1404910,
+                        "MD5": "91bd32f6aa1530a1277c7e2d77e0cb6d",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/simplehats-forge-1.20.1-0.4.0a.jar"
+                    }
+                },
+                {
+                    "id": "mods:skinlayers3d-forge-1.11.2-mc1.20.1:1.0.0",
+                    "name": "skinlayers3d-forge-1.11.2-mc1.20.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2168901,
+                        "MD5": "da7ad14ec277f1c09c02ac0fe6df7693",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/skinlayers3d-forge-1.11.2-mc1.20.1.jar"
+                    }
+                },
+                {
+                    "id": "mods:sophisticatedbackpacks-1.20.1-3.24.60.1982:1.0.0",
+                    "name": "sophisticatedbackpacks-1.20.1-3.24.60.1982",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1130746,
+                        "MD5": "ca675d78c7eba8c508f8f8b1cbd2e043",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/sophisticatedbackpacks-1.20.1-3.24.60.1982.jar"
+                    }
+                },
+                {
+                    "id": "mods:sophisticatedcore-1.20.1-1.3.71.2181:1.0.0",
+                    "name": "sophisticatedcore-1.20.1-1.3.71.2181",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1622529,
+                        "MD5": "328aec32b4148fbdedd42df499aba772",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/sophisticatedcore-1.20.1-1.3.71.2181.jar"
+                    }
+                },
+                {
+                    "id": "mods:supplementaries-1.20-3.1.43-forge:1.0.0",
+                    "name": "supplementaries-1.20-3.1.43-forge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 13667742,
+                        "MD5": "31e94bb39e718edf97d49d8c67ac941a",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/supplementaries-1.20-3.1.43-forge.jar"
+                    }
+                },
+                {
+                    "id": "mods:twilightforest-1.20.1-4.3.2508-universal:1.0.0",
+                    "name": "twilightforest-1.20.1-4.3.2508-universal",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 23332091,
+                        "MD5": "0e1ca36ec2ca7e35059dea1600aa31ee",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/twilightforest-1.20.1-4.3.2508-universal.jar"
+                    }
+                },
+                {
+                    "id": "mods:voicechat-forge-1.20.1-2.6.21:1.0.0",
+                    "name": "voicechat-forge-1.20.1-2.6.21",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4918879,
+                        "MD5": "7768581f20ec5d0051a7faef47ab898c",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/voicechat-forge-1.20.1-2.6.21.jar"
+                    }
+                },
+                {
+                    "id": "mods:waterframes-forge-mc1.20.1-v2.1.22:1.0.0",
+                    "name": "waterframes-FORGE-mc1.20.1-v2.1.22",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 255481,
+                        "MD5": "595a2467900abcdf00b3059c56fc0d0f",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/waterframes-FORGE-mc1.20.1-v2.1.22.jar"
+                    }
+                },
+                {
+                    "id": "mods:watermedia-2.1.37:1.0.0",
+                    "name": "watermedia-2.1.37",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 37046674,
+                        "MD5": "4a09ad3ea22ad258802605b8aa929bbd",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/watermedia-2.1.37.jar"
+                    }
+                },
+                {
+                    "id": "mods:watermedia_binaries-3.0.0-rc.4:1.0.0",
+                    "name": "watermedia_binaries-3.0.0-rc.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 143710524,
+                        "MD5": "833fd900255e5b15c76a9fdde7df15c4",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/watermedia_binaries-3.0.0-rc.4.jar"
+                    }
+                },
+                {
+                    "id": "mods:watermedia_youtube_plugin-2.1.2:1.0.0",
+                    "name": "watermedia_youtube_plugin-2.1.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3830072,
+                        "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/watermedia_youtube_plugin-2.1.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:watervision-fg-mc1.20.1-v0.1.0-alpha:1.0.0",
+                    "name": "watervision-FG-mc1.20.1-v0.1.0-alpha",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 82079,
+                        "MD5": "c934bcbabeb242ce7da79e3f16d1406c",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/watervision-FG-mc1.20.1-v0.1.0-alpha.jar"
+                    }
+                },
+                {
+                    "id": "mods:waystones-forge-1.20.1-14.1.20:1.0.0",
+                    "name": "waystones-forge-1.20.1-14.1.20",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 533738,
+                        "MD5": "eb4dcdc36470b7fd858c39547ad1c7d2",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/waystones-forge-1.20.1-14.1.20.jar"
+                    }
+                },
+                {
+                    "id": "mods:xaerominimap-forge-1.20.1-26.4.2:1.0.0",
+                    "name": "xaerominimap-forge-1.20.1-26.4.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2195245,
+                        "MD5": "f6019f3ba0925782cc3cd8405cc80259",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/xaerominimap-forge-1.20.1-26.4.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:xaeroworldmap-forge-1.20.1-1.44.2:1.0.0",
+                    "name": "xaeroworldmap-forge-1.20.1-1.44.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1421224,
+                        "MD5": "4876f693b6525716be8f8acfb1b2f6a5",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/xaeroworldmap-forge-1.20.1-1.44.2.jar"
+                    }
+                },
+                {
+                    "id": "mods:xercapaint-1.20.1-1.1.0:1.0.0",
+                    "name": "xercapaint-1.20.1-1.1.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 403594,
+                        "MD5": "242959749342541d81a625020f2b571c",
+                        "url": "https://github.com/realdarek/bractworesources/releases/download/mods/xercapaint-1.20.1-1.1.0.jar"
+                    }
+                }
+            ]
+        }
+    ]
+}
