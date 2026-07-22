@@ -1,30 +1,493 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/">
   <channel>
-    <title>Debile² Launcher News</title>
-    <link>https://github.com/realdarek/bractworesources</link>
-    <description>Aktualności dotyczące serwera i modpacka Debile²</description>
-    <language>pl-PL</language>
-
+    <title>News</title>
+    <description>Updates and Announcements</description>
+    <pubDate>Wed, 22 Jul 2026 14:29:48 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Jul 2026 14:29:48 +0000</lastBuildDate>
+    <generator>WesterosCraft Forums</generator>
+    <link>https://forum.westeroscraft.com/</link>
+    <atom:link rel="self" type="application/rss+xml" href="https://forum.westeroscraft.com/forum/news.2/index.rss"/>
     <item>
-      <title>Launcher uruchomiony</title>
-      <link>https://github.com/realdarek/bractworesources</link>
-      <description>
-        Pierwsza wersja launchera jest już dostępna. Trwają testy pobierania modów i uruchamiania gry.
-      </description>
-      <pubDate>Wed, 22 Jul 2026 10:55:00 GMT</pubDate>
-      <guid>news-001</guid>
+      <title>The Rookery — Autumn 2025</title>
+      <pubDate>Sun, 05 Oct 2025 00:16:20 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-autumn-2025.4810/</link>
+      <guid isPermaLink="false">4810</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/4d7514ec-afb4-4e6b-9b58-14d29c54891f" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-autumn-2025-1-jpg.19636/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/19/19636-6e1bcc764aff60b6aa27ad15e806b28f.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Autumn-2025-1.jpg"
+		title="Rookery---Autumn-2025-1.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
     </item>
-
     <item>
-      <title>Aktualizacja modpacka</title>
-      <link>https://github.com/realdarek/bractworesources/releases</link>
-      <description>
-        Dodano nowe mody, poprawiono konfigurację oraz przygotowano automatyczne aktualizacje przez launcher.
-      </description>
-      <pubDate>Wed, 22 Jul 2026 09:30:00 GMT</pubDate>
-      <guid>news-002</guid>
+      <title>Rookery — Summer 2025</title>
+      <pubDate>Fri, 11 Jul 2025 06:44:19 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/rookery-%E2%80%94-summer-2025.4793/</link>
+      <guid isPermaLink="false">4793</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/26f8a95e-245a-4ea4-862a-75d7c4093462" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-summer-2025-1-jpg.19594/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/19/19594-c5581e794493e91b5ce5a14591c8ed54.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Summer-2025-1.jpg"
+		title="Rookery---Summer-2025-1.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
     </item>
-
+    <item>
+      <title>Rookery — Spring 2025</title>
+      <pubDate>Sun, 13 Apr 2025 21:18:42 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/rookery-%E2%80%94-spring-2025.4777/</link>
+      <guid isPermaLink="false">4777</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/c1588db0-1f8a-43a5-9f3e-97febba356df" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-spring-2025-1-jpg.19558/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/19/19558-c7dd489d8e09c43f23ac53406b9213e0.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Spring-2025-1.jpg"
+		title="Rookery---Spring-2025-1.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Now Accepting Submissions for the Spring 2025 Rookery!</title>
+      <pubDate>Sun, 02 Mar 2025 21:12:27 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/now-accepting-submissions-for-the-spring-2025-rookery.4755/</link>
+      <guid isPermaLink="false">4755</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">We're now accepting submissions of any type for the Spring 2025 issue of the Rookery!<br />
+<br />
+<b>These could include:</b><br />
+<ul>
+<li data-xf-list-type="ul"><b>Project spotlights</b></li>
+<li data-xf-list-type="ul"><b>OPINIONS</b></li>
+<li data-xf-list-type="ul"><b>Community spotlights (for community members who have made a positive impact on the community)</b></li>
+<li data-xf-list-type="ul"><b>COOL SHADERS, renders, fan art, anything creative!</b></li>
+<li data-xf-list-type="ul"><b>Building/World Edit/Profession TUTORIALS</b></li>
+<li data-xf-list-type="ul"><b>Real world inspiration</b></li>
+<li data-xf-list-type="ul"><b>World-building guides (e.g, how jewelry was made in the 1400s)</b></li>
+<li data-xf-list-type="ul"><b>Game of Thrones/ASOIAF/server-related JOKES</b></li>
+<li data-xf-list-type="ul"><b>Free-form writing (long or short-form articles about anything related to the server)</b></li>
+</ul>If you have an idea for something, talk to a mod and we can help you get it finished!<br />
+<br />
+The goal is to release the issue by the end of March, so try to get your submissions in as soon as possible! If you have an idea but think it might take a bit of time for you to finish it, just let us know and we'll leave a space for it!<br />
+<br />
+Check out past Rookerys <a href="https://westeroscraft.com/rookery" target="_blank" class="link link--external" rel="noopener">here</a>!</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Winter 2024</title>
+      <pubDate>Sun, 19 Jan 2025 06:17:12 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-winter-2024.4722/</link>
+      <guid isPermaLink="false">4722</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/3961db04-34a0-4586-ba67-2876aeb12fdd" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-winter-2024-1-jpg.19450/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/19/19450-e607ff8f9138266a67430c8e32834088.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Winter-2024-1.jpg"
+		title="Rookery---Winter-2024-1.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Now Accepting Submissions for the Winter 2024 Rookery!</title>
+      <pubDate>Wed, 11 Dec 2024 01:38:54 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/now-accepting-submissions-for-the-winter-2024-rookery.4682/</link>
+      <guid isPermaLink="false">4682</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">We're now accepting submissions of any type for the Winter 2024 issue of the Rookery!<br />
+<br />
+<b>These could include:</b><br />
+<ul>
+<li data-xf-list-type="ul"><b>Project spotlights</b></li>
+<li data-xf-list-type="ul"><b>OPINIONS</b></li>
+<li data-xf-list-type="ul"><b>Community spotlights (for community members who have made a positive impact on the community)</b></li>
+<li data-xf-list-type="ul"><b>COOL SHADERS, renders, fan art, anything creative!</b></li>
+<li data-xf-list-type="ul"><b>Building/World Edit/Profession TUTORIALS</b></li>
+<li data-xf-list-type="ul"><b>Real world inspiration</b></li>
+<li data-xf-list-type="ul"><b>World-building guides (e.g, how jewelry was made in the 1400s)</b></li>
+<li data-xf-list-type="ul"><b>Game of Thrones/ASOIAF/server-related JOKES</b></li>
+<li data-xf-list-type="ul"><b>Free-form writing (long or short-form articles about anything related to the server)</b></li>
+</ul>If you have an idea for something, talk to a mod and we can help you get it finished!<br />
+<br />
+The goal is to release the issue by the end of December, so try to get your submissions in as soon as possible! If you have an idea but think it might take a bit of time for you to finish it, just let us know and we'll leave a space for it!<br />
+<br />
+Check out past Rookerys <a href="https://westeroscraft.com/rookery" target="_blank" class="link link--external" rel="noopener">here</a>!</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Autumn 2024</title>
+      <pubDate>Wed, 16 Oct 2024 00:22:17 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-autumn-2024.4589/</link>
+      <guid isPermaLink="false">4589</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/0448477f-ce56-4b85-b878-5a5e9d89ee68" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-autumn-2024-1-jpg.19353/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/19/19353-b29fb9b5362a316e33ecea512290560a.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Autumn-2024-1.jpg"
+		title="Rookery---Autumn-2024-1.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Summer 2024</title>
+      <pubDate>Mon, 08 Jul 2024 02:39:50 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-summer-2024.4232/</link>
+      <guid isPermaLink="false">4232</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/7e6790e4-170d-41f1-ba65-0cfd1fa56223" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-summer-2024-cover-jpg.19091/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/19/19091-934d1d08acf7c46371f94ef106017d71.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Summer-2024-cover.jpg"
+		title="Rookery---Summer-2024-cover.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>WesterosTools mod</title>
+      <pubDate>Sat, 08 Jun 2024 15:44:28 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/westerostools-mod.4134/</link>
+      <guid isPermaLink="false">4134</guid>
+      <author>invalid@example.com (geeberry)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>geeberry</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Announcing a new mod for the server, <b>WesterosTools</b>!   All credit goes to Emoticone11.<br />
+ <br />
+This mod aims to add a few tools to help make your building experience easier. <br />
+<b>Commands</b><br />
+ For each of these, be sure you have an item currently selected. You can bind these tools to different items and keep them in the toolbar. <br />
+<br />
+<b>/wctools cycler</b> - identical to the current cycler tool except that it automatically sets unconnect=true when applicable. <br />
+<b>/wctools extrude</b> - a variant of the cycler tool that toggles the blockstate for a wall, fence, pane, or stair block in a particular direction - either on the side facing the user for right click, or the opposite side for left click. <br />
+<b> /wctools paint &lt;set&gt;</b> a paint tool that can paint over any block set with another block set.  Use the command to select from all available blocksets and use right click to paint!  You can also left click on a blockset to switch your palette.<br />
+<br />
+<br />
+<img src="https://cdn.discordapp.com/emojis/722283543304077392.webp?size=56&amp;quality=lossless" data-url="https://cdn.discordapp.com/emojis/722283543304077392.webp?size=56&amp;quality=lossless" class="bbImage " loading="lazy"
+		alt=":note:" title=":note:" style="" width="" height="" />  Additionally, if you haven't already please do me a huge favor and check out the Project Tracker thread <a href="https://forum.westeroscraft.com/threads/westeroscraft-project-tracking-spreadsheet.4091/" class="link link--internal">https://forum.westeroscraft.com/threads/westeroscraft-project-tracking-spreadsheet.4091/</a> ⁠.  All I'm asking is for you to think of your project resume, past and present, and let me know if anything needs to be changed or added to them on the sheet.  Thank you!! <img src="https://cdn.discordapp.com/emojis/722283543304077392.webp?size=56&amp;quality=lossless" data-url="https://cdn.discordapp.com/emojis/722283543304077392.webp?size=56&amp;quality=lossless" class="bbImage " loading="lazy"
+		alt=":note:" title=":note:" style="" width="" height="" />  <br />
+<br />
+I've said it before, but it's an exciting year for WesterosCraft. Stay tuned!</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Now Accepting Submissions for the Summer 2024 Rookery!</title>
+      <pubDate>Fri, 07 Jun 2024 01:52:43 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/now-accepting-submissions-for-the-summer-2024-rookery.4131/</link>
+      <guid isPermaLink="false">4131</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img src="https://forum.westeroscraft.com/attachments/1686486320048-png.17437/" data-url="https://forum.westeroscraft.com/attachments/1686486320048-png.17437/" class="bbImage " loading="lazy"
+		alt="1686486320048.png" title="1686486320048.png" style="" width="" height="" /><br />
+<br />
+<br />
+We're now accepting submissions of any type for the Summer 2024 issue of the Rookery!<br />
+<br />
+<b>These could include:</b><br />
+<ul>
+<li data-xf-list-type="ul"><b>Project spotlights</b></li>
+<li data-xf-list-type="ul"><b>OPINIONS</b></li>
+<li data-xf-list-type="ul"><b>Community spotlights (for community members who have made a positive impact on the community)</b></li>
+<li data-xf-list-type="ul"><b>COOL SHADERS, renders, fan art, anything creative!</b></li>
+<li data-xf-list-type="ul"><b>Building/World Edit/Profession TUTORIALS</b></li>
+<li data-xf-list-type="ul"><b>Real world inspiration</b></li>
+<li data-xf-list-type="ul"><b>World-building guides (e.g, how jewelry was made in the 1400s)</b></li>
+<li data-xf-list-type="ul"><b>Game of Thrones/ASOIAF/server-related JOKES</b></li>
+<li data-xf-list-type="ul"><b>Free-form writing (long or short-form articles about anything related to the server)</b></li>
+</ul>If you have an idea for something, talk to a mod and we can help you get it finished!<br />
+<br />
+The goal is to release the issue by the end of June, so try to get your submissions in as soon as possible! If you have an idea but think it might take a bit of time for you to finish it, just let us know and we'll leave a space for it!<br />
+<br />
+Check out past Rookerys <a href="https://westeroscraft.com/rookery" target="_blank" class="link link--external" rel="noopener">here</a>!</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>WesterosCraft Project Tracking Spreadsheet</title>
+      <pubDate>Sat, 01 Jun 2024 18:11:04 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/westeroscraft-project-tracking-spreadsheet.4091/</link>
+      <guid isPermaLink="false">4091</guid>
+      <author>invalid@example.com (geeberry)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>geeberry</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Hey WesterosCraft!  Hope your summer is off to a good start.  Announcing the new <b>WesterosCraft Project Tracking Spreadsheet</b> <br />
+<br />
+This is the first of a few upcoming changes and improvements this summer around project management and process. As I've started taking my role as founder and &quot;project manager&quot; a bit more seriously, I felt it was pretty hard to get a grasp on the overall state of WesterosCraft - the previous sheet was neglected as well as our wiki on the website even though that information is valuable (my fault on both tbh).  <i>Whats currently in progress? Whats abandoned? Whats been approved or not? Whats available to build?</i>  It was really hard finding out those answers searching across forums, Discord, in game chat and more, so I imagined it was hard for Builders on the server to find those answers too.  Thats a big problem for a project as ambitious as ours.<br />
+<br />
+So I thought of a new way to manage our project in a new Project Tracking spreadsheet that merges both the old project tracking sheet and some information from the wiki. You can see the <b>beta</b> version of it here: <a href="https://docs.google.com/spreadsheets/d/1sOtwUZZW2ct1vQ-dAhQXdiwZ4U9TGg-T-CSQv-6vgWE/edit?usp=sharing" target="_blank" class="link link--external" rel="noopener">https://docs.google.com/spreadsheets/d/1sOtwUZZW2ct1vQ-dAhQXdiwZ4U9TGg-T-CSQv-6vgWE/edit?usp=sharing</a> This creates a giant project database for the project, including past projects. I ultimately imagine it not just as the source of truth for WesterosCraft builds, but a place builders can reference constantly to get information on how the project is currently operating, what's on the roadmap, handy tips/etc.  You might wanna bookmark it, I will get it linked on the website as well.<b>I need the communities help with updating the spreadsheet</b>! I spent a lot of time getting it to its current state, but its undoubtably missing a ton of information that I cant really gather on my own.  The goal is to get the sheet to match the current status of every project on the server, and this is where I need the communities help. There are many features and additions on the sheet, but I hope there's enough there to give some sense of how handy and integral this spreadsheet will help going forward on the project.  There are too many features and things about it to describe here, so I've created a discussion thread on Discord in the #projects channel where I will explain features, brainstorm ideas together, gather contributions and answer questions.  <b>If you wish to contribute, please check out that thread!</b> <br />
+<br />
+Thanks all, expect more announcements throughout this summer<br />
+<br />
+Special shout out to <a href="https://forum.westeroscraft.com/members/8873/" class="username" data-xf-init="member-tooltip" data-user-id="8873" data-username="DutchGuard">DutchGuard</a> and <a href="https://forum.westeroscraft.com/members/67/" class="username" data-xf-init="member-tooltip" data-user-id="67" data-username="otty">otty</a> , who without their continued past efforts on the wiki and project sheet respectively, a lot of the info I currently have on the sheet may have been lost. much respect</div>]]></content:encoded>
+      <slash:comments>8</slash:comments>
+    </item>
+    <item>
+      <title>Gathering anonymous feedback on the server!</title>
+      <pubDate>Thu, 11 Apr 2024 15:12:50 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/gathering-anonymous-feedback-on-the-server.4027/</link>
+      <guid isPermaLink="false">4027</guid>
+      <author>invalid@example.com (geeberry)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>geeberry</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Howdy everyone!<br />
+<br />
+Hope your spring is going great so far. Behind the scenes, I've been working on improving our project management (along with lots of other exciting things like a plot system, new WorldMachine terrain, and more!). To further those plans, <b>I am looking to gather some feedback, suggestions, ideas, or comments about the operation of the server.</b>  I've made a feedback form where I can solicit some of these responses and ideally influence the future of the project.<br />
+<br />
+I'm looking for general feedback on what you think is working for the project, what you believe isn't working, and any ideas to improve. I am open to any other thoughts from both current and former community members, outside observers and anyone else. <b>You can remain anonymous!  The form is only viewable by me, not the mods. </b> There is a username field so you can identify yourself, but only if you wish.  Alternatively, if you wish to directly DM me on Discord, please do, always down to chat! <br />
+<br />
+The form is here: <a href="https://forms.gle/WoBKjs5cxJ2ZjebT6" target="_blank" class="link link--external" rel="noopener">https://forms.gle/WoBKjs5cxJ2ZjebT6</a> <br />
+<br />
+Thank you everyone, looking forward to seeing the feedback</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Spring 2024</title>
+      <pubDate>Tue, 09 Apr 2024 08:49:38 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-spring-2024.4023/</link>
+      <guid isPermaLink="false">4023</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/e878cf02-4be0-4382-8fa6-9b26a6bfbf7f" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-spring-2024-cover-jpg.18973/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/18/18973-c005aec71fe6e0139e3add0e81deeec4.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery---Spring-2024-cover.jpg"
+		title="Rookery---Spring-2024-cover.jpg"
+		width="100" height="130" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>1</slash:comments>
+    </item>
+    <item>
+      <title>Server role changes!</title>
+      <pubDate>Thu, 11 Jan 2024 03:06:20 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/server-role-changes.3877/</link>
+      <guid isPermaLink="false">3877</guid>
+      <author>invalid@example.com (geeberry)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>geeberry</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img src="https://cdn.discordapp.com/emojis/713899284172636160.webp?size=56&amp;quality=lossless" data-url="https://cdn.discordapp.com/emojis/713899284172636160.webp?size=56&amp;quality=lossless" class="bbImage " loading="lazy"
+		alt=":WesterosCraft:" title=":WesterosCraft:" style="" width="" height="" /> We've made some changes to our server roles! <img src="https://cdn.discordapp.com/emojis/713899284172636160.webp?size=56&amp;quality=lossless" data-url="https://cdn.discordapp.com/emojis/713899284172636160.webp?size=56&amp;quality=lossless" class="bbImage " loading="lazy"
+		alt=":WesterosCraft:" title=":WesterosCraft:" style="" width="" height="" /> This is in anticipation of upcoming changes to project management. <br />
+<br />
+The track now goes like this: Guest --&gt; Apprentice --&gt; Builder --&gt; Ranger --&gt; Mod --&gt; Admin <br />
+<br />
+<b>Changelog:</b><br />
+<ul>
+<li data-xf-list-type="ul">Renamed &quot;New Builder&quot; role to &quot;Apprentice&quot;. This is also now a role in Discord.  Apprentices are users that are still in their probation period.</li>
+<li data-xf-list-type="ul">Combined &quot;Builder&quot; and &quot;Editor&quot; role.  Builders now have editor perms.  Be sure to read our WE guide here: <a href="https://westeroscraft.com/docs/guides/worldedit-basics" target="_blank" class="link link--external" rel="noopener">https://westeroscraft.com/docs/guides/worldedit-basics</a></li>
+<li data-xf-list-type="ul">Added the new &quot;Ranger&quot; role.  This is essentially what our current &quot;probie-leaders&quot; are now, and should be referred to as such going forward.  This is also a new Discord role.  The definition of this role is still in flux and will most likely change in the future</li>
+</ul>Our main form of communication is Discord. While we still plan projects here, please join Discord! <a href="https://discord.com/invite/pBS5TH4" target="_blank" class="link link--external" rel="noopener">https://discord.com/invite/pBS5TH4</a><br />
+<br />
+Be sure, if you are an apprentice or higher, you ask a mod or admin in game for your personal plot in Testeros.  Everyone should have one! I think thats it. More exciting stuff Soon<img class="smilie smilie--emoji" loading="lazy" alt="™️" title="Trade mark    :tm:" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/2122.png" data-shortname=":tm:" /></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Winter 2023</title>
+      <pubDate>Tue, 09 Jan 2024 05:44:03 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-winter-2023.3872/</link>
+      <guid isPermaLink="false">3872</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/6db22058-e1a4-49e1-a45d-78ad47ac85bc" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-winter-2023-cover-1-jpg.18581/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/18/18581-c77bd72ae488a4cfecca75d14675ab57.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery-Winter-2023-cover-1.jpg"
+		title="Rookery-Winter-2023-cover-1.jpg"
+		width="100" height="100" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Holiday Contests 2023 - 1.18 + New Server, New Spawn</title>
+      <pubDate>Sat, 02 Dec 2023 01:59:43 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/holiday-contests-2023-1-18-new-server-new-spawn.3822/</link>
+      <guid isPermaLink="false">3822</guid>
+      <author>invalid@example.com (CashBanks)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>CashBanks</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper">Hello Westeros!<br />
+It's been too long since we put our building skills to the test, so to make up for lost time, we're launching <b>two </b>contests to ring in the new year.<br />
+<br />
+<b><span style="color: rgb(41, 105, 176)">Contest</span></b> <b><span style="color: rgb(41, 105, 176)">#1: 1.18 New Hotness</span></b><br />
+Our upgrade to 1.18 has brought a slew of new features for builders to play with. The Cycler tool lets us customise the shape of blocks like walls, stairs and fences. We can now build ♪unduh the sea♪ with waterlogged blocks.<br />
+<br />
+This contest is a challenge to show us the coolest uses of these new features. Entries will be judged on how best they highlight the innovative building techniques, creative scenes or fresh updates to existing builds to demonstrate what's now possible. Entries can be anything from a statue to a shipwreck.<br />
+<br />
+<b>Contest period</b><br />
+The contest will start 1 December 2023 and conclude <b>15 January 2024.<br />
+<br />
+<span style="color: rgb(184, 49, 47)">Contest</span></b> <b><span style="color: rgb(184, 49, 47)">#2: New Server, New Spawn</span></b><br />
+The Spawn Area remains long overdue for a full refresh to make sure it represents the best the server has to offer and is an engaging, useful welcome area for new guests.<br />
+With 1.18, guests also now spawn with a FAQ guidebook which replaces the need for most of the introduction signs.<br />
+<br />
+Feel free to explore new ideas and think outside the box with your entries. We'd just suggest considering the following:<br />
+- Because of the new spawn mechanics, <b>the new initial spawn location must be open air</b> (rather than the dungeon cell we currently have). Guests will spawn at the highest uncovered point at the x,y,z co-ordinates. It also needs to be <b>21x21 square.</b><br />
+- We're still working on fixing up warp sign functionality for 1.18, but we do expect this will be possible. So assume we can still use &quot;portals&quot; to key locations as we currently do at the hub zone /warp portals.<br />
+- While not a dealbreaker, it would be nice if the existing giant floating WESTEROSCRAFT sigil logo could be visible from the spawn area.<br />
+- It would be great if any portals area has functionality to be expanded to accommodate additional portals in the future.<br />
+<br />
+We're not guaranteeing that the winner of the contest will have their entry used as the server spawn but it will be given priority as inspiration.<br />
+<br />
+<b>Contest period</b><br />
+The contest will start 1 December 2023 and conclude <b>31 January 2024.<br />
+<br />
+Guests</b><br />
+As usual, Guests are allowed to compete in both contests! Please follow <a href="https://forms.gle/pdGNPahuEAwQAok18" target="_blank" class="link link--external" rel="noopener">this link</a> and leave us your username. Your submission will only count if you have been on our server before under that username. Builders do not need to fill in this form.<br />
+<br />
+<b>Entries</b><br />
+Multiple submissions will be allowed for both contests, as well as co-ops. However, you can only receive a prize for one submission. Prizes for co-ops will be divided.<br />
+<br />
+<b>Judgement</b><br />
+Winners will be determined by a judging panel, who will each award points for creativity, effort and faithfulness to the theme.<br />
+<br />
+<b>Prizes</b><br />
+TBC, but at minimum bragging rights and dragon egg forum trophy.<br />
+<br />
+<b>Plots</b><br />
+You can find the plot areas for each contest at <b>/warp 1.18Contest </b>and <b>/warp SpawnContest </b>respectively.<br />
+<br />
+We're going to try allocating plots for each, so feel free to claim one with a sign then tell a mod to transfer the claim to you. We've subdivided the main plots into quarters for the 1.18 Contest. Start claiming from the warp then move north. We'll setup more plots if needed.<br />
+<a href="https://forum.westeroscraft.com/attachments/1701481970874-png.18377/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/18/18377-2cf007fb6617cf3355395583305fdb42.jpg"
+		class="bbImage "
+		style=""
+		alt="1701481970874.png"
+		title="1701481970874.png"
+		width="100" height="153" loading="lazy" /></a></div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Autumn 2023</title>
+      <pubDate>Sun, 08 Oct 2023 17:16:30 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-autumn-2023.3740/</link>
+      <guid isPermaLink="false">3740</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/3ff9e5f7-fdc5-46b8-9247-7ffa333598b4" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-autumn-2023-cover-jpg.18082/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/18/18082-e386a7c48c7c62915971106225344c8f.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery-Autumn-2023-cover.jpg"
+		title="Rookery-Autumn-2023-cover.jpg"
+		width="141" height="100" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Now Accepting Submissions for Autumn Rookery 2023!</title>
+      <pubDate>Sat, 16 Sep 2023 00:40:07 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/now-accepting-submissions-for-autumn-rookery-2023.3698/</link>
+      <guid isPermaLink="false">3698</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><img src="https://forum.westeroscraft.com/attachments/1686486320048-png.17437/" data-url="https://forum.westeroscraft.com/attachments/1686486320048-png.17437/" class="bbImage " loading="lazy"
+		alt="1686486320048.png" title="1686486320048.png" style="" width="" height="" /><br />
+<br />
+We're now accepting submissions of any type for the Autumn 2023 issue of the Rookery!<br />
+<br />
+<b>These could include:</b><br />
+<ul>
+<li data-xf-list-type="ul"><b>Project spotlights</b></li>
+<li data-xf-list-type="ul"><b>OPINIONS</b></li>
+<li data-xf-list-type="ul"><b>Community spotlights (for community members who have made a positive impact on the community)</b></li>
+<li data-xf-list-type="ul"><b>COOL SHADERS, renders, fan art, anything creative!</b></li>
+<li data-xf-list-type="ul"><b>Building/World Edit/Profession TUTORIALS</b></li>
+<li data-xf-list-type="ul"><b>Real world inspiration</b></li>
+<li data-xf-list-type="ul"><b>World-building guides (e.g, how jewelry was made in the 1400s)</b></li>
+<li data-xf-list-type="ul"><b>Game of Thrones/ASOIAF/server-related JOKES</b></li>
+<li data-xf-list-type="ul"><b>Free-form writing (long or short-form articles about anything related to the server)</b></li>
+</ul>If you have an idea for something, talk to a mod and we can help you get it finished!<br />
+<br />
+The goal is to release the issue by the beginning of October, so try to get your submissions in as soon as possible! If you have an idea but think it might take a bit of time for you to finish it, just let us know and we'll leave a space for it!<br />
+<br />
+Check out past Rookerys <a href="https://westeroscraft.com/rookery" target="_blank" class="link link--external" rel="noopener">here</a>!</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>The Rookery — Summer 2023</title>
+      <pubDate>Mon, 10 Jul 2023 03:37:53 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/the-rookery-%E2%80%94-summer-2023.3663/</link>
+      <guid isPermaLink="false">3663</guid>
+      <author>invalid@example.com (lemonbear)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>lemonbear</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://indd.adobe.com/view/dc69bb24-d702-4116-a556-d97cb1e04ff8" target="_blank" class="link link--external" rel="noopener"><a href="https://forum.westeroscraft.com/attachments/rookery-summer-2023-1-copy-png.17530/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/17/17530-081586e67ecce0b6cfcc7ad9ff5485c5.jpg"
+		class="bbImage "
+		style=""
+		alt="Rookery - Summer 2023-1 copy.png"
+		title="Rookery - Summer 2023-1 copy.png"
+		width="100" height="100" loading="lazy" /></a></a><br />
+(Image is the link)</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
+    <item>
+      <title>Now Accepting Submissions for SUMMER 2023 Rookery!</title>
+      <pubDate>Sun, 11 Jun 2023 12:24:26 +0000</pubDate>
+      <link>https://forum.westeroscraft.com/threads/now-accepting-submissions-for-summer-2023-rookery.3648/</link>
+      <guid isPermaLink="false">3648</guid>
+      <author>invalid@example.com (CashBanks)</author>
+      <category domain="https://forum.westeroscraft.com/forum/news.2/"><![CDATA[News]]></category>
+      <dc:creator>CashBanks</dc:creator>
+      <content:encoded><![CDATA[<div class="bbWrapper"><a href="https://forum.westeroscraft.com/attachments/1686486320048-png.17437/"
+		target="_blank"><img src="https://forum.westeroscraft.com/data/attachments/17/17437-cfc5dc02c7535194ced102fac5553d63.jpg"
+		class="bbImage "
+		style=""
+		alt="1686486320048.png"
+		title="1686486320048.png"
+		width="508" height="100" loading="lazy" /></a><br />
+We're now accepting submissions of any type for the Summer 2023 issue of the Rookery!<br />
+<br />
+<b>These could include:</b><br />
+<ul>
+<li data-xf-list-type="ul"><b>Project spotlights</b></li>
+<li data-xf-list-type="ul"><b>OPINIONS</b></li>
+<li data-xf-list-type="ul"><b>Community spotlights (for community members who have made a positive impact on the community)</b></li>
+<li data-xf-list-type="ul"><b>COOL SHADERS, renders, fan art, anything creative!</b></li>
+<li data-xf-list-type="ul"><b>Building/World Edit/Profession TUTORIALS</b></li>
+<li data-xf-list-type="ul"><b>Real world inspiration</b></li>
+<li data-xf-list-type="ul"><b>World-building guides (e.g, how jewelry was made in the 1400s)</b></li>
+<li data-xf-list-type="ul"><b>Game of Thrones/ASOIAF/server-related JOKES</b></li>
+<li data-xf-list-type="ul"><b>Free-form writing (long or short-form articles about anything related to the server)</b></li>
+</ul>If you have an idea for something, talk to a mod and we can help you get it finished!<br />
+<br />
+The goal is to release the issue by the end of June, so try to get your submissions in as soon as possible! If you have an idea but think it might take a bit of time for you to finish it, just let us know and we'll leave a space for it!<br />
+<br />
+Check out past Rookerys <a href="https://westeroscraft.com/rookery" target="_blank" class="link link--external" rel="noopener">here</a>!</div>]]></content:encoded>
+      <slash:comments>0</slash:comments>
+    </item>
   </channel>
 </rss>
