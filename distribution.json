@@ -8,7 +8,7 @@
     "java": {
         "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
     },
-    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+    "rss": "https://raw.githubusercontent.com/realdarek/bractworesources/refs/heads/master/update.rss",
     "servers": [
         {
             "id": "Debiledokw-1.20.1",
@@ -16,7 +16,7 @@
             "description": "Nasz serwer na modach",
             "icon": "https://cdn.discordapp.com/attachments/1120050853513011260/1529432642523496518/ddkCircle.png?ex=6a61eaa5&is=6a609925&hm=fa554e1607bb999ca0aae25548ad72e6cde9aeae9474b1e96e08997f7c826d92&",
             "version": "1.0.0",
-            "address": "debiledokwadratu.icsv.pl",
+            "address": "pl25.icsv.pl:50076",
             "minecraftVersion": "1.20.1",
             "discord": {
                 "shortId": "Production",
